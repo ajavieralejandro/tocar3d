@@ -1,7 +1,7 @@
 {
   "name": "agora3dstudio",
   "version": "0.1.0",
-  "homepage": "https://tocar3d.com",
+  "homepage": "https://www.tocar3d.com",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.4",
