@@ -4,19 +4,20 @@ import Navbar from '../src/components/navbar/navbar';
 import Video from '../src/components/video/video';
 import Card from './components/card/card';
 import Card2 from './components/card/card2';
+import Aside from './components/Aside/aside';
+import Hero from './components/Hero/hero';
+import Card3 from './components/card/card3';
+import Team from './components/Team/team';
+import TimeLine from './components/Timeline/timeline';
+import Footer from './components/Footer/footer';
 function App() {
   return (
     <div className="App bg-black scroll-smoth">
-
-    <Navbar />
-    <main className="relative">
-    <Card/>
-    <Video />
-
-    </main>
-
-
-
+      <Navbar />
+        <Hero />
+        <TimeLine />
+        <Team />
+        <Footer />
     </div>
   );
 }
