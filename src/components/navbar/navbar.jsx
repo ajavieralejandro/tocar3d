@@ -66,23 +66,20 @@ export default function Example() {
   return (
     <>
       <Navbar className="sticky top-0 z-10 rounded-none py-2 px-4 lg:px-8 lg:py-4">
+        
+    
+
         <div className="flex items-center justify-between text-blue-gray-900">
-          <Typography
-            as="a"
-            href="#"
-            className="mr-4 cursor-pointer py-1.5 font-medium"
-          >
-            Tocar3D
-          </Typography>
+        <span class=" items-baseline">
+        
+        
+        <img class="self-center w-8 h-8 rounded-full mx-1"  src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/82db2d36-90a9-490d-4f1b-5714a4c23500/public" alt="image description" />
+      </span>
+       
+        
           <div className="flex items-center gap-4">
             <div className="mr-4 hidden lg:block">{navList}</div>
-            <Button
-              variant="gradient"
-              size="sm"
-              className="hidden lg:inline-block"
-            >
-              <span>Buy Now</span>
-            </Button>
+            
             <IconButton
               variant="text"
               className="ml-auto h-6 w-6 text-inherit hover:bg-transparent focus:bg-transparent active:bg-transparent lg:hidden"
@@ -124,9 +121,7 @@ export default function Example() {
         </div>
         <MobileNav open={openNav}>
           {navList}
-          <Button variant="gradient" size="sm" fullWidth className="mb-2">
-            <span>Buy Now</span>
-          </Button>
+    
         </MobileNav>
       </Navbar>
     

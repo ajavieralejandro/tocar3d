@@ -25,16 +25,18 @@ import {
     <img src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/9b60e655-de16-489c-1555-1b41fdd6cb00/public" alt="..." class=" rounded max-w-full h-auto align-middle border-none" />
   </div>
 </div>
+
       <h1 class="text-3xl font-extrabold sm:text-5xl">
         Tocar3D
 
        
       </h1>
 
-      <p class="mt-4 max-w-lg sm:text-xl/relaxed">
-      Tocar es un proyecto premiado por el Ministerio de Cultura de la Nación Argentina para ser desarrollado en parte con financiamiento del Ministerio e incubación en la Universidad de Lanus.
+      <div class="flex items-center justify-center">
+      <p class="mt-4 max-w-lg sm:text-xl/relaxed mt-auto text-center">
+      TOCAR3D da acceso a personas ciegas a piezas del patrimonio cultural, histórico, arquitectónico y natural mediante impresión 3D. Provee a instituciones de laboratorios, capacitación y dispositivos inclusivos.
       </p>
-
+      </div>
       <div class="mt-8 flex flex-wrap gap-4 text-center">
       
       </div>
