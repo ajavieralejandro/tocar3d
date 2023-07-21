@@ -21,7 +21,7 @@ const About = () =>{
                 
                             <div class="mt-4 md:mx-4 md:mt-0">
 
-                                <p class="mt-3 text-gray-500 dark:text-gray-300">
+                                <p class="mt-3 text-black dark:text-gray-300">
                                 Confiamos en que incorporar tecnologías de fabricación digital al ecosistema de la educación y el patrimonio contribuirá exponencialmente a mejorar la alfabetización de la población de personas que no pueden tener acceso al conocimiento en igualdad de condiciones.                                </p>
                             </div>
                         </div>
@@ -30,7 +30,7 @@ const About = () =>{
                            
                             <div class="mt-4 md:mx-4 md:mt-0">
 
-                                <p class="mt-3 text-gray-500 dark:text-gray-300">
+                                <p class="mt-3 text-black dark:text-gray-300">
                                 La lecto-escritura háptica, la contribución a la digitalización abierta y a la fabricación de material pedagógico y didáctico son nuestros objetivos.
                                 </p>
                             </div>
@@ -41,7 +41,7 @@ const About = () =>{
 
                             <div class="mt-4 md:mx-4 md:mt-0">
 
-                                <p class="mt-3 text-gray-500 dark:text-gray-300">
+                                <p class="mt-3 text-black dark:text-gray-300">
                                 Y queremos lograrlo de forma interdisciplinaria combinando múltiples actores del sector público y del sector privado, estableciendo redes de intercambio institucional entre quienes pueden apoyar nuestra visión, quienes pueden acompañarnos a llevar a cabo nuestra misión y quienes pueden beneficiarse de la conjunción de factores nucleados por TOCAR y Agora3D Academy, para crear oportunidades, hacia una sociedad inclusiva.
                                 </p>
                             </div>

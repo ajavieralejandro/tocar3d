@@ -56,9 +56,7 @@ export default function Example() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
-          Docs
-        </a>
+       
       </Typography>
     </ul>
   );

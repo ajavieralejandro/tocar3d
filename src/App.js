@@ -14,6 +14,7 @@ import { Timeline } from '@mui/lab';
 import Features from './components/Features/features';
 import About from './components/About/about';
 import Documental from './components/Documental/documental';
+import Colaborators from './components/Colaborators/colaborators';
 function App() {
   return (
     <div className="App bg-black scroll-smoth">
@@ -25,6 +26,7 @@ function App() {
         <Documental />
     
         <Team />
+        <Colaborators />
         <Footer />
     </div>
   );
