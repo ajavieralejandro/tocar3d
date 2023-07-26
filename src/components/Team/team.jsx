@@ -67,6 +67,17 @@ Ciegos.</p>
                     </div>
 
                     <div class="flex flex-col items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+                        <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/68ccb85d-08b7-4856-366d-f5bef9611400/public" alt="" />
+                        
+                        <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Gonzalo Peralta Viada</h1>
+                        
+                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white"> Maker, instructor de stop the bleed, instructor de tiro, Director de academia de seguridad y emergencias.
+Logística y Técnica de TOCAR3D </p>
+                        
+                   
+                    </div>
+
+                    <div class="flex flex-col items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
                         <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/2015eaf7-19dc-4153-ed6d-484abcab5900/public" alt="" />
                         
                         <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Javier Amorosi</h1>
