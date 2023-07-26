@@ -6,8 +6,8 @@ const Features = () =>{
         <section class="text-gray-600 bg-white body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Proyecto</h1>
-      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Algunos de nuestros logros que fueron posible gracias a los coloboradores e instituciones que acompañan nuestro proyecto.</p>
+      <h1 class=" text-5xl  title-font mb-4 text-gray-900">Proyecto</h1>
+      <p class="text-xl">Algunos de nuestros logros que fueron posible gracias a los coloboradores e instituciones que acompañan nuestro proyecto.</p>
     </div>
     <div class="flex flex-wrap -m-4 text-center">
       <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
@@ -17,7 +17,7 @@ const Features = () =>{
 </svg>
 
           <h2 class="title-font font-medium text-3xl text-gray-900">10</h2>
-          <p class="leading-relaxed">Edificios Escaneados</p>
+          <p class="leading-relaxed text-xl">Edificios Escaneados</p>
         </div>
       </div>
       <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
@@ -27,7 +27,7 @@ const Features = () =>{
 </svg>
 
           <h2 class="title-font font-medium text-3xl text-gray-900">3</h2>
-          <p class="leading-relaxed">ciudades</p>
+          <p class="leading-relaxed text-xl ">ciudades</p>
         </div>
       </div>
       <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
@@ -37,7 +37,7 @@ const Features = () =>{
 </svg>
 
           <h2 class="title-font font-medium text-3xl text-gray-900">27</h2>
-          <p class="leading-relaxed">Colaboradores</p>
+          <p class="leading-relaxed text-xl">Colaboradores</p>
         </div>
       </div>
       <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
@@ -47,7 +47,7 @@ const Features = () =>{
 </svg>
 
           <h2 class="title-font font-medium text-3xl text-gray-900">12</h2>
-          <p class="leading-relaxed">Monumentos históricos</p>
+          <p class="leading-relaxed text-xl">Monumentos históricos</p>
         </div>
       </div>
     </div>

@@ -10,14 +10,14 @@ const About = () =>{
                         <div>
                             <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">Nosotros <br/> Nuestra Visión</h1>
                         
-                            <div class="mt-2">
+                            <div class="mt-2 ">
                                 <span class="inline-block w-40 h-1 rounded-full bg-blue-500"></span>
                                 <span class="inline-block w-3 h-1 ml-1 rounded-full bg-blue-500"></span>
                                 <span class="inline-block w-1 h-1 ml-1 rounded-full bg-blue-500"></span>
                             </div>
                         </div>
 
-                        <div class="md:flex md:items-start md:-mx-4">
+                        <div class="md:flex md:items-start md:-mx-4 text-2xl">
                 
                             <div class="mt-4 md:mx-4 md:mt-0">
 
@@ -30,7 +30,7 @@ const About = () =>{
                            
                             <div class="mt-4 md:mx-4 md:mt-0">
 
-                                <p class="mt-3 text-black dark:text-gray-300">
+                                <p class="mt-3 text-black dark:text-gray-300 text-2xl">
                                 La lecto-escritura háptica, la contribución a la digitalización abierta y a la fabricación de material pedagógico y didáctico son nuestros objetivos.
                                 </p>
                             </div>
@@ -41,7 +41,7 @@ const About = () =>{
 
                             <div class="mt-4 md:mx-4 md:mt-0">
 
-                                <p class="mt-3 text-black dark:text-gray-300">
+                                <p class="mt-3 text-black dark:text-gray-300 text-2xl">
                                 Y queremos lograrlo de forma interdisciplinaria combinando múltiples actores del sector público y del sector privado, estableciendo redes de intercambio institucional entre quienes pueden apoyar nuestra visión, quienes pueden acompañarnos a llevar a cabo nuestra misión y quienes pueden beneficiarse de la conjunción de factores nucleados por TOCAR y Agora3D Academy, para crear oportunidades, hacia una sociedad inclusiva.
                                 </p>
                             </div>

@@ -15,7 +15,9 @@ import Features from './components/Features/features';
 import About from './components/About/about';
 import Documental from './components/Documental/documental';
 import Colaborators from './components/Colaborators/colaborators';
+import Institutions from './components/Institutions/institutions';
 function App() {
+  
   return (
     <div className="App bg-black scroll-smoth">
       <Navbar />
@@ -24,9 +26,10 @@ function App() {
         <Features />
         <TimeLine />
         <Documental />
-    
         <Team />
         <Colaborators />
+        <Institutions />
+
         <Footer />
     </div>
   );

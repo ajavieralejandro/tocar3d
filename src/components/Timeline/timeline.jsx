@@ -12,9 +12,9 @@ import TimelineOppositeContent, {
 export default function LeftAlignedTimeline() {
   return (
     <>
-    <h1 className='text-white text-xl'>Nuestro Roadmap: </h1>
+    <h1 className='text-white text-3xl'>Hitos </h1>
     <Timeline
-    className='text-white'
+    className='text-white text-xl'
       sx={{
         [`& .${timelineOppositeContentClasses.root}`]: {
           flex: 0.2,
@@ -29,7 +29,11 @@ export default function LeftAlignedTimeline() {
           <TimelineDot />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent>Empezamos a buscar necesidad, transmitir la misión al público beneficiario(personas ciegas) para trabajar con ellos de forma colaborativa.</TimelineContent>
+        <TimelineContent
+        >
+          <p className='text-xl'>          Desde una idea general de creación de material pedagógico-didáctico haptico validamos la necesidad contactando organismos e instituciones de personas ciegas para trabajar con ellos de forma colaborativa.
+</p>
+</TimelineContent>
       </TimelineItem>
       <TimelineItem>
         
@@ -42,7 +46,10 @@ export default function LeftAlignedTimeline() {
           <TimelineConnector />
         </TimelineSeparator>
 
-        <TimelineContent>Recibimos premio de Inovación cultural desde la dirección nacional de innovación cultural del ministerio de cultura de Nación.</TimelineContent>
+        <TimelineContent>
+        <p className='text-xl'>Recibimos el premio de Inovación Cultural desde la Dirección Nacional de Innovación Cultural del Ministerio de Cultura de Nación.
+</p>
+</TimelineContent>
 
         
       </TimelineItem>
@@ -57,7 +64,10 @@ export default function LeftAlignedTimeline() {
           <TimelineConnector />
         </TimelineSeparator>
 
-        <TimelineContent>Comenzamos con las relaciones y alianzas institucionales también comenzaron los escaneos 3d's con vuelos de drones, también el diseño y desarollo del software.
+        <TimelineContent>
+        <p className='text-xl'>Comenzamos con las relaciones y alianzas institucionales y los escaneos 3d mediante vuelo de drones, recontrucción SFM, reinterpretación y adaptación haptica,  diseño y desarollo del software, e impresión 3D en pequeña escala para testeos.
+</p>
+
 
 .</TimelineContent>
 
@@ -74,7 +84,9 @@ export default function LeftAlignedTimeline() {
           <TimelineConnector />
         </TimelineSeparator>
 
-        <TimelineContent>Escaneo 3d del palacio Barolo con ayuda de la Funcación Amigos del Palacio Barolo
+        <TimelineContent>
+        <p className='text-xl'>Escaneo 3d del palacio Barolo con apoyo de la Fundación Amigos del Palacio Barolo
+</p>
 
 
 </TimelineContent>
@@ -92,7 +104,15 @@ export default function LeftAlignedTimeline() {
           <TimelineConnector />
         </TimelineSeparator>
 
-        <TimelineContent>Comenzamos la fabricación del palacio Barolo Hápitico. Comenzamos el rodaje de TOCAR3D el DOCUMENTAL con la Artista Laura Heiss como Directora y Co-productora
+        <TimelineContent>
+        <p className='text-xl'>
+        Comenzamos la fabricación del Palacio Barolo Hápitico Impreso en 3D.
+          <br /> Comenzamos con el rodaje de TOCAR3D el DOCUMENTAL dirigido y co-producido por la artista Laura Heiss.<br />
+        Establecimos una alianza colaborativa con la Biblioteca Argentina Para Ciegos, quienes se encargaron de fabricar la cartelería metálica braille y transmitirnos los requerimientos de una buena audiodescripción, estándares para baja visión y vincular instituciones de personas ciegas para los nuevos tours inclusivos que comenzaron a hacerse en el Palacio Barolo en torno a la impresión 3D haptica del mismo.
+
+
+        </p>
+
 
 
 </TimelineContent>
@@ -109,9 +129,11 @@ export default function LeftAlignedTimeline() {
           <TimelineDot />
         </TimelineSeparator>
 
-        <TimelineContent>Celebramos junto a la Fundación Amigos del Palacio Barolo los 100 años del palacio barolo con la instalación de la impresión 3d del pacialo barolo háptico para personas ciegas.
-         Se establece una alianza con la Biblioteca Argentina Para Ciegos
+        <TimelineContent>
+        <p className='text-xl'>
+        Celebramos junto a la Fundación Amigos del Palacio Barolo sus 100 años con la instalación de la impresión 3d de la adaptación háptica de gran tamaño para personas ciegas.
 
+        </p>
         </TimelineContent>
 
         
