@@ -7,7 +7,8 @@ import {
   IconButton,
   Card,
 } from "@material-tailwind/react";
- 
+import { Link} from 'react-scroll'
+
 export default function Example() {
   const [openNav, setOpenNav] = React.useState(false);
  
@@ -23,51 +24,53 @@ export default function Example() {
       <Typography
         as="li"
         variant="small"
-        color="blue-gray"
+        color="black"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+          <Link activeClass="active" class="cursor-pointer" to="About" spy={true} smooth={true} offset={50} duration={500} >
           Nosotros
-        </a>
+        </Link>
       </Typography>
       <Typography
         as="li"
         variant="small"
-        color="blue-gray"
+        color="black"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+         <Link activeClass="active" class="cursor-pointer" to="Proyect" spy={true} smooth={true} offset={50} duration={500} >
           Proyecto
-        </a>
+        </Link>
       </Typography>
       <Typography
         as="li"
         variant="small"
-        color="blue-gray"
+        color="black"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
-          Equipo
-        </a>
+        <Link activeClass="active" class="cursor-pointer" to="Team" spy={true} smooth={true} offset={50} duration={500} >
+          Team
+        </Link>
       </Typography>
       <Typography
         as="li"
         variant="small"
-        color="blue-gray"
+        color="black"
         className="p-1 font-normal"
       >
-       
+        <Link activeClass="active" class="cursor-pointer" to="Contact" spy={true} smooth={true} offset={50} duration={500} >
+          Contact
+        </Link>
       </Typography>
     </ul>
   );
  
   return (
     <>
-      <Navbar className="sticky top-0 z-10 rounded-none py-2 px-4 lg:px-8 lg:py-4">
+      <Navbar className="sticky top-0 bg-white z-10 rounded-none py-2 px-4 lg:px-8 lg:py-4">
         
     
 
-        <div className="flex items-center justify-between text-blue-gray-900">
+        <div className="flex items-center justify-between text-black-900">
         <span class=" items-baseline">
         
         

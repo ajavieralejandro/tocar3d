@@ -3,7 +3,7 @@ import React from "react";
 const About = () =>{
     return(
         <>
-        <section class="bg-white dark:bg-gray-900">
+        <section class="bg-white dark:bg-gray-900" id="About">
             <div class="container px-6 py-10 mx-auto">
                 <div class="lg:flex lg:items-center">
                     <div class="w-full space-y-12 lg:w-1/2 ">
@@ -42,7 +42,7 @@ const About = () =>{
                             <div class="mt-4 md:mx-4 md:mt-0">
 
                                 <p class="mt-3 text-black dark:text-gray-300 text-2xl">
-                                Y queremos lograrlo de forma interdisciplinaria combinando múltiples actores del sector público y del sector privado, estableciendo redes de intercambio institucional entre quienes pueden apoyar nuestra visión, quienes pueden acompañarnos a llevar a cabo nuestra misión y quienes pueden beneficiarse de la conjunción de factores nucleados por TOCAR y Agora3D Academy, para crear oportunidades, hacia una sociedad inclusiva.
+                                Y queremos lograrlo de forma interdisciplinaria combinando múltiples actores del sector público y del sector privado, estableciendo redes de intercambio institucional entre quienes pueden apoyar nuestra visión, quienes pueden acompañarnos a llevar a cabo nuestra misión y quienes pueden beneficiarse de la conjunción de factores nucleados por TOCAR3D y Agora3D Academy, para crear oportunidades, hacia una sociedad inclusiva.
                                 </p>
                             </div>
                         </div>

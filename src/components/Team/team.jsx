@@ -2,10 +2,10 @@ import React from "react";
 
 const Team = () =>{
     return(
-        <div class="pt-2">
+        <div class="pt-2" id="Team">
         <section class="bg-dark text-white dark:bg-gray-900">
             <div class="container px-6 py-10 mx-auto">
-                <h1 class="text-3xl font-semibold text-center text-white capitalize lg:text-4xl dark:text-white">Equipo de Tocar 3D</h1>
+                <h1 class="text-3xl font-semibold text-center text-white capitalize lg:text-4xl dark:text-white">Equipo de TOCAR3D</h1>
                 
                 <p class="max-w-2xl mx-auto my-6 text-center text-white dark:text-white">
                 </p>
