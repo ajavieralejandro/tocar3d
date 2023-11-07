@@ -23,7 +23,7 @@ export default function Example() {
     <ul className="mb-4 mt-2 flex flex-col gap-2 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
       <Typography
         as="li"
-        variant="small"
+        variant="medium"
         color="black"
         className="p-1 font-normal"
       >
@@ -66,10 +66,8 @@ export default function Example() {
  
   return (
     <>
-      <Navbar className="sticky top-0 bg-white z-10 rounded-none py-2 px-4 lg:px-8 lg:py-4">
+      <div className="sticky top-0 w-screen  bg-white z-10 rounded-none py-2 px-4 lg:px-8 lg:py-4">
         
-    
-
         <div className="flex items-center justify-between text-black-900">
         <span class=" items-baseline">
         
@@ -83,7 +81,7 @@ export default function Example() {
             
             <IconButton
               variant="text"
-              className="ml-auto h-6 w-6 text-inherit hover:bg-transparent focus:bg-transparent active:bg-transparent lg:hidden"
+              className="ml-auto h-6 w-6 text-inherit   lg:hidden"
               ripple={false}
               onClick={() => setOpenNav(!openNav)}
             >
@@ -124,7 +122,7 @@ export default function Example() {
           {navList}
     
         </MobileNav>
-      </Navbar>
+      </div>
     
     </>
   );
