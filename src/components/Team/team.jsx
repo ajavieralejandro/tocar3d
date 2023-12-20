@@ -71,8 +71,7 @@ Ciegos.</p>
                         
                         <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Gonzalo Peralta Viada</h1>
                         
-                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white"> Maker, instructor de stop the bleed, instructor de tiro, Director de academia de seguridad y emergencias.
-Logística y Técnica de TOCAR3D </p>
+                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white"> Maker,Logística y Técnica de TOCAR3D </p>
                         
                    
                     </div>
