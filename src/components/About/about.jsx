@@ -49,7 +49,7 @@ const About = () =>{
                     </div>
 
                     <div class="sm:h-1/2 sm:w-1/2 lg:flex lg:items-center lg:w-1/2 lg:justify-center">
-                        <img cclass="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/23d04424-fc57-413d-6d9a-64203471db00/public" alt="" />
+                        <img cclass="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/3faa4bac-1d96-4be5-8fae-d37bd3aa1a00/public" alt="" />
                     </div>
                 </div>
 

@@ -65,7 +65,6 @@ function App() {
         <Gallery />
 
         <Team />
-        <Colaborators />
         <Institutions />
         <Contact />
         <Footer />

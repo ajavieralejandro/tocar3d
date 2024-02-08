@@ -81,11 +81,36 @@ Ciegos.</p>
                         
                         <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Javier Amorosi</h1>
                         
-                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white"> Programador, estudiante de Lic. en ciencias de Computación. </p>
+                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white"> Programador full stack  Lic. en ciencias de Computación UNS. </p>
                         
                    
                     </div>
+                    
 
+
+                    <div class="flex flex-col items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+                        <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/37cbe95f-9377-4f0d-e6ca-323f7a75be00/public" alt="" />
+                        
+                        <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Luis Marte</h1>
+                        
+                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white">Músico</p>
+                        
+                     
+                    </div>
+
+              
+
+                  
+
+                    <div class="flex flex-col items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+                        <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/6a5b9bd9-7215-4777-ffc6-e8a14b856a00/public" alt="" />
+                        
+                        <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white">Stefanía Parese.</h1>
+                        
+                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white">Fotografa, profesora y artista visual. @fluoritaestudio</p>
+                        
+                    
+                    </div>
 
                  
                 </div>
