@@ -78,7 +78,17 @@ Ciegos.</p>
                    
                     </div>
                     
+                    <div class="flex flex-col items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
+                        <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/aef9170c-8d86-4bea-2101-5ea934914100/public" alt="" />
+                        
+                        <h1 class="mt-4 text-2xl font-semibold text-white capitalize dark:text-white group-hover:text-white"> German Vazquez 
 
+</h1>
+                        
+                        <p class="mt-2 text-white capitalize dark:text-white group-hover:text-white">  Fotógrafo y Videasta</p>
+                        
+                       
+                    </div>
 
                     <div class="flex flex-col items-center p-8 transition-colors duration-200 transform cursor-pointer group hover:bg-blue-600 rounded-xl">
                         <img class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/37cbe95f-9377-4f0d-e6ca-323f7a75be00/public" alt="" />
