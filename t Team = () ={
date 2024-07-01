@@ -1,0 +1,131 @@
+[33mcommit 1ff24e2a1350f7d91ca134bde36cd69a72b84bc8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: javierarescoop <javier@arescoop.es>
+Date:   Mon Jul 1 11:46:49 2024 -0300
+
+    changes on team
+
+[33mcommit 17c0a3e7e5928475805748553c7226e09bedac00[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Mon Apr 15 11:04:25 2024 -0300
+
+    team changes etc...
+
+[33mcommit 5b00c5238cc89c33cc33f9d95429183424287ea9[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Thu Feb 8 19:30:24 2024 -0300
+
+    changes...
+
+[33mcommit a001e8e6d952ff5b88b1ad30178cd31a79011e85[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Wed Jan 17 12:33:52 2024 -0300
+
+    social links added
+
+[33mcommit ec5b3fd3d51aad59f884ba1c5bbdda050b69d1c1[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Sat Jan 6 20:45:00 2024 -0300
+
+    Collaborators changes...
+
+[33mcommit 3beb4acaa0469a382c2e3c5588533ebe1774de8b[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Tue Dec 19 21:53:06 2023 -0300
+
+    new contact template
+
+[33mcommit ac650df91ad2bd02438d078832158cc9e8aa1af3[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Tue Nov 7 12:29:28 2023 -0300
+
+    navbar changes...
+
+[33mcommit 49e02f79f625c4280e32eaa0b9a799bf2f60c294[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Sat Aug 26 16:58:08 2023 -0300
+
+    gallery added
+
+[33mcommit 0a20ca4da98b3747a6ff595050a4dc8020aa8fc9[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Sun Aug 6 14:28:10 2023 -0300
+
+    change size of image
+
+[33mcommit 5542859bc7a2698cac655b0810e396598082b12a[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Wed Jul 26 01:44:24 2023 -0300
+
+    team member added
+
+[33mcommit 7d130397908fc8ddd8b051ec5fc807c8e787b714[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Wed Jul 26 01:32:40 2023 -0300
+
+    accesibility changes...
+
+[33mcommit 5f09d2457911d0284646bfd20a117112f8d1ba0a[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Mon Jul 24 23:28:19 2023 -0300
+
+    Laura change...
+
+[33mcommit b5d2ade2b23a3c47e1007855c777994fccf06045[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Mon Jul 24 22:05:19 2023 -0300
+
+    spanish languagge
+
+[33mcommit fca0c7a60515e5a2cdfa48b68386c82a86f96645[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Fri Jul 21 01:34:10 2023 -0300
+
+    changes...
+
+[33mcommit 6021fa9118d29ff4c45c1da4a0df6d325b783c6c[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Mon Jul 17 19:49:21 2023 -0300
+
+    changes...
+
+[33mcommit 3310e4ec0898a4bd9721f40de182c925022136ee[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Sat Jul 15 17:29:18 2023 -0300
+
+    changes...
+
+[33mcommit 66783f6cc6e4ecfc2bab0cf6bb3418e2cfd4ad81[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Thu Jul 13 18:45:23 2023 -0300
+
+    more advances...
+
+[33mcommit 5f74cce50a5a4b8dd1fa3d50b0ffae47a1578512[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Tue Jul 11 19:03:49 2023 -0300
+
+    maket changes...
+
+[33mcommit a9e4d19994cd460ec9b7b467529ba5744f636d6b[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Mon Nov 14 22:05:25 2022 -0300
+
+    domain settings...
+
+[33mcommit f009485cd17b6e4129e1d839aa29254797f78a6d[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Mon Nov 14 21:57:49 2022 -0300
+
+    create cname
+
+[33mcommit 4b93c97e6b1f34e54b346883d0c2623fee7d2749[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Mon Nov 14 19:40:13 2022 -0300
+
+    text changes...
+
+[33mcommit 65e9b7933656c31b521cee9cee79a100c604f02c[m
+Author: ajavieralejandro <amorosijavier@gmail.com>
+Date:   Thu Nov 10 17:32:23 2022 -0300
+
+    Initialize project using Create React App
