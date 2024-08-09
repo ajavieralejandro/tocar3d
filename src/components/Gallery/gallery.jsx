@@ -18,9 +18,20 @@ const Gallery2 = () => {
    }
 
     return (
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
     <div class="grid gap-4">
         
+    <div>
+
+<ImageGallery  onClick={onClick}   src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/c6d653f8-5e1f-48fe-8586-27a20b17db00/public" alt="" />
+
+</div>
+
+<div>
+
+<ImageGallery  onClick={onClick}    src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/477e930e-5982-45ad-b3ee-f2ede96cc300/public" alt="" />
+
+</div>
 
         <div>
             <ImageGallery   onClick={onClick}  src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/632e19bb-2b5e-4739-0b24-9f97c68c7000/public" alt="" />
@@ -35,14 +46,6 @@ const Gallery2 = () => {
         </div>
         <div>
             <ImageGallery  onClick={onClick}   src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/e35ad156-6447-4547-2dd6-bcf3eb361a00/public" alt="" />
-        </div>
-    </div>
-    <div class="grid gap-4">
-        <div>
-            <ImageGallery  onClick={onClick}   src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/c6d653f8-5e1f-48fe-8586-27a20b17db00/public" alt="" />
-        </div>
-        <div>
-            <ImageGallery  onClick={onClick}    src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/477e930e-5982-45ad-b3ee-f2ede96cc300/public" alt="" />
         </div>
     </div>
     <div class="grid gap-4">
